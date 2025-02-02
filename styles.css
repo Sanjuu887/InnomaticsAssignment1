@@ -1,0 +1,49 @@
+h1,h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.a{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+table{
+    width: 60%;
+    border-collapse: separate;
+    border:1px solid black;
+    text-align: center;
+    margin-left: 300px;
+}
+th,td{
+    border-collapse: separate;
+    border:1px solid black;
+    text-align: center;
+}
+hr{
+    width:80%
+}
+
+.span1{
+    text-align: center;
+}
+
+.b1{
+    background-color: #578ac1;
+}
+.b2{
+    background-color: rgb(213, 86, 86);
+}
+.b3{
+    background-color: rgb(70, 178, 70);
+}
+
+thead{
+    background-color: rgb(131, 200, 200);
+}
+tbody{
+    background-color: rgb(161, 167, 178);
+}
+
