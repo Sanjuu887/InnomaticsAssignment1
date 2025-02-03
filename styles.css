@@ -15,7 +15,7 @@ table{
     border-collapse: separate;
     border:1px solid black;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 450px;
 }
 th,td{
     border-collapse: separate;
@@ -32,18 +32,28 @@ hr{
 
 .b1{
     background-color: #578ac1;
+    border-radius: 20%;
+    padding: 5px;
+    
 }
 .b2{
     background-color: rgb(213, 86, 86);
+    border-radius: 20%;
+    padding: 5px;
 }
 .b3{
     background-color: rgb(70, 178, 70);
+    border-radius: 20%;
+    padding: 5px;
 }
-
 thead{
     background-color: rgb(131, 200, 200);
 }
 tbody{
-    background-color: rgb(161, 167, 178);
+    background-color: rgb(189, 190, 192);
+}
+body{
+    background-color: rgb(164, 182, 183);
+    font-family: sans-serif;
 }
 
